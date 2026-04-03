@@ -18,18 +18,8 @@ def funcVandergriff():
                           ,"         /
                     """)
 
-
-
-def funcWells():
-    # Rats
-    for i in range(4):
-      print("Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy.")
-    
 def fightClub(): 
-    print("ARE YOU READY TO RUMBLE???????")
-    print("THROW THIS MAN INTO THE RUBBER ROOM")
-    print("RELEASE THE RATS")
-    funcWells()
+    print("We don't talk about this. ")
 
 if __name__ == "__main__":
     funcVandergriff()
