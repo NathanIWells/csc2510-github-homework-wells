@@ -19,7 +19,13 @@ def funcVandergriff():
                     """)
 
 def fightClub(): 
-    print("We don't talk about this. ")
+    print("THROW THIS MAN INTO THE RUBBER ROOM")
+    print("RELEASE THE RATS")
+    funcWells()
+
+def funcWells():
+    for i in range(4):
+        print("Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy.")
 
 if __name__ == "__main__":
     funcVandergriff()
